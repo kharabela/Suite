@@ -57,7 +57,6 @@ func WithLines(lines Lines) PolicyOption {
 
 		Lineslist := readLineObjectsCSVFile("Objects/Line.csv")
 		for _, line := range Lineslist {
-			//p.lines = append(p.lines, lines)
 			fmt.Println("Print Dynamic")
 			fmt.Println("Line ID -" + line.TypeLOB)
 			//	p.lines = append(p.lines, line) //Can't make this work
