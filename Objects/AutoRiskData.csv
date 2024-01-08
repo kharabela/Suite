@@ -1,5 +1,5 @@
-Name,ID,Include,Deleted,Limit
-Risk1,1,1,0,25
-Risk2,2,1,0,22
-Risk3,3,1,0,21
-Risk4,4,1,0,15
+Name,ID,Include,Deleted,Limit,LineID,LocationID
+Risk1,1,1,0,25,1,Location1
+Risk2,2,1,0,22,1,Location1
+Risk3,3,1,0,21,2,Location2
+Risk4,4,1,0,15,2,Location2

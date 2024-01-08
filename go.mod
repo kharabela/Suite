@@ -1,6 +1,6 @@
 module main
 
-go 1.19
+go 1.21
 
 require github.com/shopspring/decimal v1.3.1 //direct
 require github.com/rs/zerolog v1.31.0 // direct
