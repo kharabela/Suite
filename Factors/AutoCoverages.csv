@@ -1,0 +1,5 @@
+Name,BaseRate,ILF,STATCode
+BodilyInjury,25,1.2,101
+Comprehensive,22,1.3,102
+Collision,21,1.4,103
+PersonalInjuryProtection,15,1.5,104
